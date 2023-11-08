@@ -3,5 +3,6 @@ public class Hat {
         System.out.println("Cat in the hat ");
 
         System.out.println("Cat in th other hat");
+        System.out.println("Updating again");
     }
 }
